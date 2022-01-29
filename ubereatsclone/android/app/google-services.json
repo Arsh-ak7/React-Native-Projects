@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151582028249",
+    "project_id": "native-e3a14",
+    "storage_bucket": "native-e3a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151582028249:android:8fd3d3672c2cf3a67329c8",
+        "android_client_info": {
+          "package_name": "com.ubereatsclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151582028249-ah4bp2smpuk8aal3qcbjkjfebf3ft9gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmP5cfEiKugF74DPXgzrh0yhcd1z-TpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151582028249-ah4bp2smpuk8aal3qcbjkjfebf3ft9gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

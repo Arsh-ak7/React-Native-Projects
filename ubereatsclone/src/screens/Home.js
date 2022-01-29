@@ -30,8 +30,6 @@ const Home = ({navigation}) => {
       .then(data => setRestaurantData(data.businesses));
   };
 
-  console.log(restaurantData);
-
   useEffect(() => {
     getRestaurantsFromYelp();
   }, [city]);
